@@ -29,7 +29,7 @@ AssertionError
 2023-11-16 18:51:42,790 ERROR incorrect input
 Traceback (most recent call last):
   File "d:\labz9\main.py", line 37, in <module>
-    num = int( input ('Введите загаданное число:   ') )
+    num = int( input ('пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ:   ') )
           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 ValueError: invalid literal for int() with base 10: '& C:/Users/kiril/AppData/Local/Programs/Python/Python312/python.exe d:/labz9/main.py'
 2023-11-16 18:51:50,327 INFO n = 12
@@ -71,3 +71,5 @@ ValueError: invalid literal for int() with base 10: '& C:/Users/kiril/AppData/Lo
 2023-11-16 18:57:34,878 INFO suitable
 2023-11-16 18:57:34,878 INFO the number isn't guessed
 2023-11-16 18:57:34,879 INFO attempts ended
+
+

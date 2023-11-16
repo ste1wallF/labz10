@@ -1,5 +1,7 @@
 import random
 import logging
+
+#cоздания лог файла с отображением данных из терминала
 logging.basicConfig( level=logging.INFO, filename="log", format="%(asctime)s %(levelname)s %(message)s" )
 
 while True:
