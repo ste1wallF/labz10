@@ -1,0 +1,73 @@
+2023-11-16 18:46:39,743 INFO n = 4
+2023-11-16 18:46:39,744 INFO suitable
+2023-11-16 18:46:41,567 INFO k = 3
+2023-11-16 18:46:41,567 INFO hidden_num = 2
+2023-11-16 18:46:44,026 INFO input num = 12
+2023-11-16 18:46:44,026 ERROR not in range
+Traceback (most recent call last):
+  File "d:\labz9\main.py", line 40, in <module>
+    assert 1 <= num <= n
+AssertionError
+2023-11-16 18:47:34,413 INFO n = 34
+2023-11-16 18:47:34,413 INFO suitable
+2023-11-16 18:47:36,500 INFO k = 3
+2023-11-16 18:47:36,500 INFO hidden_num = 17
+2023-11-16 18:47:38,052 INFO input num = 12
+2023-11-16 18:47:38,052 INFO suitable
+2023-11-16 18:47:38,052 INFO the number isn't guessed
+2023-11-16 18:47:40,766 INFO input num = 23
+2023-11-16 18:47:40,766 INFO suitable
+2023-11-16 18:47:40,767 INFO the number isn't guessed
+2023-11-16 18:47:43,473 INFO input num = 1
+2023-11-16 18:47:43,473 INFO suitable
+2023-11-16 18:47:43,473 INFO the number isn't guessed
+2023-11-16 18:47:43,473 INFO attempts ended
+2023-11-16 18:50:52,981 INFO n = 56
+2023-11-16 18:50:52,981 INFO suitable
+2023-11-16 18:50:54,774 INFO k = 3
+2023-11-16 18:50:54,774 INFO hidden_num = 31
+2023-11-16 18:51:42,790 ERROR incorrect input
+Traceback (most recent call last):
+  File "d:\labz9\main.py", line 37, in <module>
+    num = int( input ('¬ведите загаданное число:   ') )
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: '& C:/Users/kiril/AppData/Local/Programs/Python/Python312/python.exe d:/labz9/main.py'
+2023-11-16 18:51:50,327 INFO n = 12
+2023-11-16 18:51:50,327 INFO suitable
+2023-11-16 18:54:12,527 INFO n = 7
+2023-11-16 18:54:12,528 INFO suitable
+2023-11-16 18:54:17,575 INFO k = 3
+2023-11-16 18:54:17,575 INFO hidden_num = 6
+2023-11-16 18:55:01,928 INFO n = 34
+2023-11-16 18:55:01,928 INFO suitable
+2023-11-16 18:55:06,484 INFO n = 7
+2023-11-16 18:55:06,485 INFO suitable
+2023-11-16 18:55:08,306 INFO k = 3
+2023-11-16 18:55:08,306 INFO hidden_num = 4
+2023-11-16 18:55:15,299 INFO input num = 2
+2023-11-16 18:55:15,299 INFO suitable
+2023-11-16 18:55:15,299 INFO the number isn't guessed
+2023-11-16 18:55:22,334 INFO input num = 4
+2023-11-16 18:55:22,335 INFO suitable
+2023-11-16 18:55:22,335 INFO the number is guessed
+2023-11-16 18:56:38,895 INFO n = 13
+2023-11-16 18:56:38,911 INFO suitable
+2023-11-16 18:56:40,662 INFO k = 3
+2023-11-16 18:56:40,662 INFO hidden_num = 12
+2023-11-16 18:56:43,277 INFO input num = 12
+2023-11-16 18:56:43,277 INFO suitable
+2023-11-16 18:56:43,278 INFO the number is guessed
+2023-11-16 18:57:22,537 INFO n = 25
+2023-11-16 18:57:22,537 INFO suitable
+2023-11-16 18:57:25,290 INFO k = 3
+2023-11-16 18:57:25,291 INFO hidden_num = 13
+2023-11-16 18:57:29,355 INFO input num = 24
+2023-11-16 18:57:29,355 INFO suitable
+2023-11-16 18:57:29,355 INFO the number isn't guessed
+2023-11-16 18:57:32,000 INFO input num = 3
+2023-11-16 18:57:32,000 INFO suitable
+2023-11-16 18:57:32,000 INFO the number isn't guessed
+2023-11-16 18:57:34,878 INFO input num = 25
+2023-11-16 18:57:34,878 INFO suitable
+2023-11-16 18:57:34,878 INFO the number isn't guessed
+2023-11-16 18:57:34,879 INFO attempts ended
