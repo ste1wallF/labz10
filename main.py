@@ -7,7 +7,7 @@ logging.basicConfig( level=logging.INFO, filename="log", format="%(asctime)s %(l
 while True:
     try:
 
-        n = int( input( '📣 Введите номер максимального боченка:  ' ) )
+        n = int( input( '📣 Загадайте число:  ' ) )
         logging.info( 'n = {}'.format( n ) )
         assert n > 1
         logging.info( 'suitable' )
